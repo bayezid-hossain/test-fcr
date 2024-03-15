@@ -1,6 +1,5 @@
 'use client';
 
-import Image from 'next/image';
 import copy from 'clipboard-copy';
 const data = [
   { age: 1, weight: 61, fcr: 0.207 },
